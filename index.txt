@@ -1,0 +1,6 @@
+Esse é o meu primeiro repositório que criei no GitHub e clonei 
+na minha máquina.
+
+Agora vou realiza um commit e mandar essa alteracão para o GitHub.
+
+Alteração feita pelo GuiHub.
